@@ -1,2 +1,2 @@
 # KBS
-Hands-On de materia Sistemas Basados en Conocimientos (KBS)
+Hands-On de la materia Sistemas Basados en el Conocimiento (KBS)
